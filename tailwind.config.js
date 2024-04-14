@@ -6,11 +6,16 @@ module.exports = {
   },
     extend: {
       backgroundImage: {
-        "home": "url('/Assets/bg.png')"
+        "home": "url('/Assets/bg-png' )"
       }
     },
   },
   plugins: [],
-};
+}
 
+// // extend: {
+// backgyound Image: {
+// "home": "url('/assets/bg-png' )"
+// }
+// plugins: [],
 
