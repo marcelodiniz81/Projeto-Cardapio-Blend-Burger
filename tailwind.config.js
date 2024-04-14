@@ -12,10 +12,3 @@ module.exports = {
   },
   plugins: [],
 }
-
-// // extend: {
-// backgyound Image: {
-// "home": "url('/assets/bg-png' )"
-// }
-// plugins: [],
-
